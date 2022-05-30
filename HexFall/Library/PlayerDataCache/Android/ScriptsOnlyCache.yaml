@@ -621,7 +621,7 @@ ScriptsOnlyBuild:
     className: BufferManager
   - hash:
       serializedVersion: 2
-      Hash: a9772272e1e082b9eb35c4f6550fe98c
+      Hash: 0b10a33a013a17fd82fc61aada57b376
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: LevelManager
@@ -676,4 +676,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/game.unity
-  playerPath: /home/ooz/Desktop/hexfall.apk
+  playerPath: /home/ooz/Desktop/puzzle_game/build.apk

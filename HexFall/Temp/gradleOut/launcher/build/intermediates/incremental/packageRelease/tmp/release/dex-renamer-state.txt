@@ -1,0 +1,4 @@
+#Mon May 30 23:14:18 EET 2022
+base.0=/home/ooz/Desktop/puzzle_game/HexFall/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
